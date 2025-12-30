@@ -2,7 +2,7 @@
 # Hi, I'm Zakaria.<br>Informatics/Computer Science student at Kalimantan Institute of Technology (ITK)<br>Builder of apps, systems, and game vibes.<br><br>
 ## About Me<br>- 3rd-year Informatics student at Kalimantan Institute of Technology (ITK),<br>- Interested in software engineering, distributed systems, databases, and AI/algorithms,<br>- Also into game dev & building wiki/lore websites, and<br>- Currently growing through projects, presentations, and lots of debugging era.<br><br>
 ## Tech Stack & Tools<br>**Languages**<br>- Rust • Python • Java • JavaScript/TypeScript<br><br>**Frameworks / Libraries**<br>- Axum (Rust) • Tauri + Vue • React/TypeScript • Vue • Node.js<br><br>**DevOps / Tools**<br>- Docker & Docker Compose • Git/GitHub • VS Code<br><br>**Design / Productivity**<br>- Figma • Canva • Microsoft Word<br><br><br>
-## Featured Projects<br>
+## Featured Projects
 ### PDF Compressor (Rust)<br>- PDF compression system with backend + storage flow<br>- Focus: multiprocessing/concurrency, clean API structure, testability, containerization<br><br>
 ### Pub-Sub Log Aggregator (Distributed Systems)<br>- Multi-service system (Docker Compose)<br>- Supports: idempotent consumer, strong deduplication, transaction/concurrency control<br><br>
 ### Connect Four AI (Game AI)<br>- Minimax + Alpha-Beta Pruning<br>- Transposition Table<br>- MTD(f) optimization<br>- Notes: branching factor, depth scaling, nodes explored<br><br>
