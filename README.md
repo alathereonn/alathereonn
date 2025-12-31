@@ -1,31 +1,113 @@
-# About Me:
-# Hi, I'm Zakaria.<br>Informatics/Computer Science student at Kalimantan Institute of Technology (ITK)<br>Builder of apps, systems, and game vibes.<br><br>
-## About Me<br>- 3rd-year Informatics student at Kalimantan Institute of Technology (ITK),<br>- Interested in software engineering, distributed systems, databases, and AI/algorithms,<br>- Also into game dev & building wiki/lore websites, and<br>- Currently growing through projects, presentations, and lots of debugging era.<br><br>
-## Tech Stack & Tools<br>**Languages**<br>- Rust • Python • Java • JavaScript/TypeScript<br><br>**Frameworks / Libraries**<br>- Axum (Rust) • Tauri + Vue • React/TypeScript • Vue • Node.js<br><br>**DevOps / Tools**<br>- Docker & Docker Compose • Git/GitHub • VS Code<br><br>**Design / Productivity**<br>- Figma • Canva • Microsoft Word<br><br><br>
+# Hi, I'm Zakaria.  
+Informatics/Computer Science student at Kalimantan Institute of Technology (ITK)  
+Builder of apps, systems, and game vibes.
+
+---
+
+## About Me
+- 3rd-year Informatics student at Kalimantan Institute of Technology (ITK)
+- Interested in **Software Engineering**, **Distributed Systems**, **Databases**, and **AI/Algorithms**
+- Into **game dev** & building **wiki/lore websites**
+- Currently growing through projects, presentations, and lots of **debugging era**
+
+---
+
+## Tech Stack & Tools
+**Languages**  
+- Rust • Python • Java • JavaScript/TypeScript
+
+**Frameworks / Libraries**  
+- Axum (Rust) • Tauri + Vue • React/TypeScript • Vue • Node.js
+
+**DevOps / Tools**  
+- Docker & Docker Compose • Git/GitHub • VS Code
+
+**Design / Productivity**  
+- Figma • Canva • Microsoft Word
+
+---
+
 ## Featured Projects
-### PDF Compressor (Rust)<br>- PDF compression system with backend + storage flow<br>- Focus: multiprocessing/concurrency, clean API structure, testability, containerization<br><br>
-### Pub-Sub Log Aggregator (Distributed Systems)<br>- Multi-service system (Docker Compose)<br>- Supports: idempotent consumer, strong deduplication, transaction/concurrency control<br><br>
-### Connect Four AI (Game AI)<br>- Minimax + Alpha-Beta Pruning<br>- Transposition Table<br>- MTD(f) optimization<br>- Notes: branching factor, depth scaling, nodes explored<br><br>
-### ECHOES: The Undying Follower (2D Horror Game)<br>- AI pathfinding + enemy learning concept (heatmap-based memory)<br>- Lore/plot/characters + wiki-style documentation website<br><br>
-### MyKisah (Digital Cashier / POS SRS)<br>- SRS-focused project: requirements clarity, use cases, structured documentation<br><br><br>
-<br><br>
-## What I’m Good At<br>- Following specs/rubrics and turning them into real deliverables<br>- Breaking complex problems into structured parts (theory vs implementation)<br>- Presenting technical work (clear explanations + diagrams + demos)<br>- Debugging build/toolchain issues (Rust/Cargo, Vite imports, DB procedures, Docker Compose)<br><br><br>
-## Highlights / Keywords<br>Software Engineering • Distributed Systems • Databases • Concurrency • Rust • Docker • Game AI • Documentation<br><br><br>
-## Let’s Connect<br>- GitHub: https://github.com/alathereonn<br>- LinkedIn: Zakaria Fattawari<br>- Email: zakriafattawari@gmail.com<br><br>
-### Fun extras<br>- ENFP energy: I like building things that are useful and have good vibes.<br>- I enjoy writing structured docs (SRS / IEEE-ish formats) and turning them into working systems.<br>
+### PDF Compressor (Rust)
+- PDF compression system with backend + storage flow  
+- Focus: multiprocessing/concurrency, clean API structure, testability, containerization
 
+### Pub-Sub Log Aggregator (Distributed Systems)
+- Multi-service system (Docker Compose)  
+- Supports: idempotent consumer, strong deduplication, transaction/concurrency control
 
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Alathereon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alathereonn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ZakariaFattawari) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ZakariaFattawari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakriafattawari@gmail.com) 
+### Connect Four AI (Game AI)
+- Minimax + Alpha-Beta Pruning  
+- Transposition Table  
+- MTD(f) optimization  
+- Notes: branching factor, depth scaling, nodes explored
 
-# Tech Stack:
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alathereonn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alathereonn&theme=dark&hide_border=false)<br/>
+### ECHOES: The Undying Follower (2D Horror Game)
+- AI pathfinding + enemy learning concept (heatmap-based memory)  
+- Lore/plot/characters + wiki-style documentation website
+
+### MyKisah (Digital Cashier / POS SRS)
+- SRS-focused project: requirements clarity, use cases, structured documentation
+
+---
+
+## What I’m Good At
+- Following specs/rubrics and turning them into real deliverables  
+- Breaking complex problems into structured parts (theory vs implementation)  
+- Presenting technical work (clear explanations + diagrams + demos)  
+- Debugging build/toolchain issues (Rust/Cargo, Vite imports, DB procedures, Docker Compose)
+
+---
+
+## Highlights / Keywords
+Software Engineering • Distributed Systems • Databases • Concurrency • Rust • Docker • Game AI • Documentation
+
+---
+
+## Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Alathereon)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alathereonn_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ZakariaFattawari)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ZakariaFattawari)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakriafattawari@gmail.com)
+
+---
+
+## Full Tech Stack (Badges)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=alathereonn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=alathereonn&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alathereonn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=alathereonn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
