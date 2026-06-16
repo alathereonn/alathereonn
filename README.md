@@ -1,16 +1,16 @@
-# Hi, I'm Zakaria. 👋
+# Hi, I'm Zakaria. 
 
 **Informatics / Computer Science Student at Kalimantan Institute of Technology (ITK)**  
 *Builder of apps, intelligent systems, and 2D game vibes.*
 
 ---
 
-## 🚀 About Me
-- 🎓 **Final-Year Informatics Student** at Kalimantan Institute of Technology (ITK) in Balikpapan.
-- 🧠 **Current Focus:** Deep Learning (CNN/RNN), Natural Language Processing (NLP), and completing my **Final Project (Tugas Akhir)** on manipulated news headline detection using OCR and IndoBert.
-- 💻 **Interests:** Software Engineering, Distributed Systems, Advanced Databases, Machine Learning, and Smart City development.
-- 👾 **Creative Side:** Passionate about 2D game development (specifically retro pixel-art and custom animations) & building lore-rich wiki websites.
-- 🌱 **Always Growing:** Constantly debugging, exploring new architectures, and turning complex algorithms into real-world deliverables.
+## About Me
+- **Final-Year Informatics Student** at Kalimantan Institute of Technology (ITK) in Balikpapan.
+- **Current Focus:** Deep Learning (CNN/RNN), Natural Language Processing (NLP), and completing my **Final Project (Tugas Akhir)** on manipulated news headline detection using OCR and IndoBert.
+- **Interests:** Software Engineering, Distributed Systems, Advanced Databases, Machine Learning, and Smart City development.
+- **Creative Side:** Passionate about 2D game development (specifically retro pixel-art and custom animations) & building lore-rich wiki websites.
+- **Always Growing:** Constantly debugging, exploring new architectures, and turning complex algorithms into real-world deliverables.
 
 ---
 
@@ -51,32 +51,27 @@
 
 ---
 
-## 💻 Featured Projects & Research
+## Featured Projects & Research
 
-### 📰 Manipulated Headline Detection (Final Project / Tugas Akhir)
+### Manipulated Headline Detection (Final Project / Tugas Akhir)
 - **Domain:** Artificial Intelligence / NLP
 - **Stack:** Python, IndoBert, OCR, Deep Learning
 - **Details:** Developing an AI system to detect manipulated news headlines that use image-based text overlays, combining optical character recognition with state-of-the-art NLP models.
 
-### 📊 Customer Churn Prediction & Data Analysis
+### Customer Churn Prediction & Data Analysis
 - **Domain:** Machine Learning
 - **Stack:** Python, SVM, Random Forest
 - **Details:** Built predictive models utilizing Support Vector Machines and Random Forest algorithms to analyze and forecast customer churn behavior.
 - **Related Research:** Conducted data analysis on the classification of natural and human resources within Balikpapan's coal mining sector and Smart City masterplan.
 
-### 🏥 TESTMBD (Medical Appointment System)
-- **Domain:** Advanced Databases
-- **Stack:** SQL, Relational DBs
-- **Details:** Designed a complex database architecture handling medical appointments, utilizing advanced SQL logic, stored procedures, triggers, and views to maintain data integrity.
-
-### 📦 PDF Compressor & Pub-Sub Log Aggregator
+### PDF Compressor & Pub-Sub Log Aggregator
 - **Domain:** Distributed Systems & Backend
 - **Stack:** Rust (Axum), Docker Compose
 - **Details:** 
   - *PDF Compressor:* Built a highly testable, containerized compression system focusing on concurrency and clean API structure.
   - *Pub-Sub System:* Developed an idempotent multi-service architecture with strong deduplication and concurrency control.
 
-### 🎮 ECHOES & Connect Four AI (Game Dev)
+### ECHOES & Connect Four AI (Game Dev)
 - **Domain:** Game Development & AI
 - **Details:** 
   - *ECHOES:* A 2D horror game featuring retro pixel-art animation (walking, jumping, attacking), heatmap-based enemy learning/pathfinding, and a dedicated lore wiki.
@@ -84,7 +79,7 @@
 
 ---
 
-## 🎯 What I’m Good At
+## What I’m Good At
 - **Bridging Theory & Implementation:** Turning strict rubrics, SRS documents, and complex math (like Backpropagation or Gradient Descent) into functional code.
 - **Systematic Problem Solving:** Writing advanced SQL triggers, debugging Rust/Cargo toolchains, and resolving Vite/Docker build issues.
 - **Technical Communication:** Delivering clear, structured presentations with diagrams that explain complex distributed or ML architectures.
@@ -92,7 +87,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ZakariaFattawari)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakriafattawari@gmail.com)
