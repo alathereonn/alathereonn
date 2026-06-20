@@ -1,18 +1,7 @@
 # Hi, I'm Zakaria. 
 
-**Informatics / Computer Science Student at Kalimantan Institute of Technology (ITK)**  
-*Builder of apps, intelligent systems, and 2D game vibes.*
-
----
-
-## About Me
-- **Final-Year Informatics Student** at Kalimantan Institute of Technology (ITK) in Balikpapan.
-- **Current Focus:** Deep Learning (CNN/RNN), Natural Language Processing (NLP), and completing my **Final Project (Tugas Akhir)** on manipulated news headline detection using OCR and IndoBert.
-- **Interests:** Software Engineering, Distributed Systems, Advanced Databases, Machine Learning, and Smart City development.
-- **Creative Side:** Passionate about 2D game development (specifically retro pixel-art and custom animations) & building lore-rich wiki websites.
-- **Always Growing:** Constantly debugging, exploring new architectures, and turning complex algorithms into real-world deliverables.
-
----
+**Third-year Computer Science Student at Kalimantan Institute of Technology @https://itk.ac.id/**  
+*Mainly focusing in Game Development, Web Development, Network Computer, and Machine Learning*
 
 ## 🛠️ Tech Stack & Tools
 
