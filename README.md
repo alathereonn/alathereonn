@@ -1,6 +1,6 @@
 # Hewlooww! I’m Zakaria Fattawari/Alathereon!
 a third-year Computer Science student at Kalimantan's Institute of Technology https://itk.ac.id/.
-Really dont do much rn (someone pls made me an employed), also me loves sleep.
+Really dont do much rn (someone pls made me an employed), and also me loves sleep.
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Alathereonn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alathereonn_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zakriafattawari@gmail.com) 
