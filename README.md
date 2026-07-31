@@ -1,4 +1,4 @@
-# Hewloooww! I’m Zakaria Fattawari/Alathereon!
+# Hewlooowwww! I’m Zakaria Fattawari/Alathereon!
 a third-year Computer Science student at Kalimantan's Institute of Technology https://itk.ac.id/.
 Really dont do much rn (someone pls made me an employed), and also me loves sleep.
 
