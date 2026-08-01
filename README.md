@@ -92,17 +92,13 @@ status      : Learning, building, debugging, sleeping when possible
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=alathereonn&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=false&v=5" alt="Zakaria's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=alathereonn&theme=tokyonight&hide_border=true&layout=compact&v=5" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=alathereonn&bg_color=0F0F14&title_color=BE185D&text_color=FFFFFF&icon_color=14B8A6&border_color=BE185D&hide_border=false&show_icons=true&include_all_commits=false&v=6" alt="Zakaria's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=alathereonn&bg_color=0F0F14&title_color=BE185D&text_color=FFFFFF&border_color=BE185D&hide_border=false&layout=compact&langs_count=8&v=6" alt="Top languages" />
 
   <br />
 
-  <img src="https://streak-stats.demolab.com/?user=alathereonn&theme=tokyonight&hide_border=true&v=5" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=alathereonn&background=0F0F14&border=BE185D&stroke=14B8A6&ring=22C55E&fire=BE185D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BE185D&sideLabels=14B8A6&dates=FFFFFF&hide_border=false&v=6" alt="GitHub streak" />
 
 </div>
 
 ---
-
-<div align="center">
-  <sub>Built with too much curiosity, several tabs open, and probably not enough sleep.</sub>
-</div>
