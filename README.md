@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F14,35:BE185D,70:2563EB,100:14B8A6&height=220&section=header&text=Zakaria%20Fattawari&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Alathereon%20%7C%20Computer%20Science%20Student%20%7C%20Builder&descAlignY=58&descSize=16&descColor=FFFFFF" alt="Zakaria Fattawari profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F14,35:BE185D,70:2563EB,100:14B8A6&height=220&section=header&text=Zakaria%20Fattawari&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Alathereon%20%7C%20Computer%20Science%20Student%20%7C%&descAlignY=58&descSize=16&descColor=FFFFFF" alt="Zakaria Fattawari profile banner" />
 
   <h3>Hewlooowwww, I'm Zakaria Fattawari, also known as Alathereon.</h3>
 
