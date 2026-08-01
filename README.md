@@ -36,9 +36,9 @@
 name        : Zakaria Fattawari
 alias       : Alathereon
 location    : Indonesia
-education   : Computer Science, Kalimantan Institute of Technology
-focus       : Web development, creative tech, data, and game experiments
-status      : Learning, building, debugging, sleeping when possible
+education   : Computer Science, Kalimantan's Institute of Technology
+focus       : Web development, Game Development, Machine Learning, CVomputer Vision
+status      : sleep
 ```
 
 ## Tech Playground
