@@ -8,7 +8,7 @@
     Third-year Computer Science student at
     <a href="https://itk.ac.id/">Kalimantan Institute of Technology</a>.
     I like building web apps, experimenting with visuals, learning backend systems,
-    and pretending I have a healthy sleep schedule.
+    and also me love to sleeps.
   </p>
 
   <p>
