@@ -2,13 +2,13 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F14,35:BE185D,70:2563EB,100:14B8A6&height=220&section=header&text=Zakaria%20Fattawari&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Alathereon%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=16&descColor=FFFFFF" alt="Zakaria Fattawari profile banner" />
 
-  <h3>Hewlooowwww, I'm Zakaria Fattawari, also known as Alathereon.</h3>
+  <h3>Hewlooowwww, I'm Zakaria Fattawari/Alathereon.</h3>
 
   <p>
     Third-year Computer Science student at
     <a href="https://itk.ac.id/">Kalimantan Institute of Technology</a>.
     I like building web apps, experimenting with visuals, learning backend systems,
-    and also me loves sleep.
+    Really dont do much rn (someone pls made me an employed), and also me loves sleep.
   </p>
 
   <p>
