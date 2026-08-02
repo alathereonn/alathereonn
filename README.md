@@ -6,7 +6,7 @@
 
   <p>
     Third-year Computer Science student at
-    <a href="https://itk.ac.id/">Kalimantan Institute of Technology</a>.
+    <a href="https://itk.ac.id/">Kalimantan's Institute of Technology</a>.
     I like building web apps, experimenting with visuals, learning backend systems.
     Really dont do much rn (someone pls made me an employed), and also me loves sleep.
   </p>
