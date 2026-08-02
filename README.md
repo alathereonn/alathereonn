@@ -41,7 +41,7 @@ focus       : Web development, Game Development, Machine Learning, Computer Visi
 status      : dead inside, sleep
 ```
 
-## Tech Playground
+## Tech Stack
 
 ### Frontend & App
 
