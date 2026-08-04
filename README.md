@@ -35,7 +35,7 @@
 ```txt
 name        : Zakaria Fattawari
 location    : Indonesia
-education   : Computer Science, Kalimantan's Institute of Technology
+education   : Department of Computer Science, Kalimantan's Institute of Technology
 focus       : Web development, Game Development, Machine Learning, Computer Vision
 status      : dead inside, sleep
 ```
