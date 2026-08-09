@@ -7,7 +7,7 @@
   <p>
     Third-year Computer Science student at
     <a href="https://itk.ac.id/">Kalimantan's Institute of Technology</a>.
-    Really dont do much rn (someone pls made me an employed), and also me loves sleep.
+    I really dont do much rn (someone pls made me an employed), and also me loves sleep.
   </p>
 
   <p>
