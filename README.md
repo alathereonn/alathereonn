@@ -33,7 +33,7 @@
 name        : Zakaria Fattawari
 location    : North Balikpapan, East Kalimantan, Indonesia
 education   : Department of Computer Science, Kalimantan's Institute of Technology
-focus       : Web development, Game Development, Machine Learning
+focus       : Web development, Game Development
 status      : dead inside, sleep
 ```
 
