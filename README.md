@@ -92,7 +92,7 @@ status      : dead inside, sleep
 
   <br />
 
-  <img src="https://streak-stats.demolab.com/?user=alathereonn&background=0F0F14&border=BE185D&stroke=14B8A6&ring=22C55E&fire=BE185D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BE185D&sideLabels=14B8A6&dates=FFFFFF&hide_border=false&v=6" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=alathereonn&background=0F0F14&border=BE185D&stroke=14B8A6&ring=22C55E&fire=BE185D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BE185D&sideLabels=14B8A6&dates=FFFFFF&hide_border=false&v=7" alt="GitHub streak" />
 
 </div>
 
