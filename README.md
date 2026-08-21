@@ -5,7 +5,7 @@
   <h3>Hewlooowwwww, I'm Zakaria Fattawari, as known as Alathereon.</h3>
 
   <p>
-    Third-year <a href="https://if.itk.ac.id/">Computer Science</a> student at <a href="https://itk.ac.id/">Kalimantan's Institute of Technology</a>. I really dont do much rn (someone pls made me an employed), and also me loves sleep.
+    Third-year <a href="https://if.itk.ac.id/">Computer Science</a> student at <a href="https://itk.ac.id/">Kalimantan's Institute of Technology</a>. I really dont do much rn (someone pls made me an employed), and also me loves sleep.cya.
   </p>
 
   <p>
